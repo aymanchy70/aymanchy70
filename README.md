@@ -192,27 +192,13 @@ Features:
 
 # 📊 GitHub Analytics
 
-
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aymanchy70&show_icons=true&hide_border=true&theme=transparent" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aymanchy70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchy70&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-
-
-<br><br>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanchy70&theme=tokyonight&hide_border=true" width="95%">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchy70&layout=compact&hide_border=true&theme=transparent" width="48%">
 
 </div>
-
-
-<br>
-
 
 # 🏆 GitHub Achievements
 
