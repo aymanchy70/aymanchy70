@@ -2,33 +2,33 @@
 
 # 👋 Hi, I'm Abdullah Al Ayman Chowdhury
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend+Architecture+Enthusiast;ASP.NET+Core+%7C+MERN+Stack+Developer;Building+Scalable+Digital+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;ASP.NET+Core+%7C+MERN+Stack+Engineer;Backend+Architecture+Enthusiast;Building+Scalable+Applications" />
 
 <br>
 
 <p>
   <em>
-    A passionate Full-Stack Software Developer focused on designing scalable systems,
-    building reliable backend architectures, and crafting seamless user experiences.
+  Passionate Full-Stack Developer focused on creating scalable applications,
+  clean architectures, and modern digital solutions.
   </em>
 </p>
 
 <br>
 
 <a href="https://github.com/aymanchy70">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://linkedin.com/in/Abdullah%20Al%20Ayman%20Chowdhury">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:aymanchy70@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://x.com/@ChyAyman">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
 </a>
 
 <br><br>
@@ -38,59 +38,74 @@
 </div>
 
 
----
+<br>
+
 
 # 👨‍💻 About Me
 
+
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a **Full-Stack Software Developer** passionate about building modern, scalable, and maintainable applications.
 
-My primary focus is:
+I am a **Full-Stack Software Developer** passionate about designing reliable systems and building modern applications.
 
-- 🚀 Designing robust backend architectures
-- 🌐 Developing responsive full-stack applications
-- 🏗️ Creating clean and maintainable software systems
-- 🔌 Building efficient REST APIs
-- 🤖 Exploring AI-powered development workflows
+My interests include:
 
-
-### Currently Working On
-
-- 💱 **Currency Management System**
-  - ASP.NET Core 8 MVC
-  - Enterprise-level architecture
-  - Secure database design
-
-- 🛒 **E-Commerce Platform**
-  - MERN Stack
-  - Modern frontend architecture
-  - Scalable backend services
+- 🚀 Backend Engineering
+- 🏗️ Software Architecture
+- 🌐 Full-Stack Development
+- 🔌 API Design
+- ☁️ Cloud Technologies
+- 🤖 AI-powered Development
 
 
-### Recent Achievement
+### 🔭 Currently Working On
 
-🎓 Designed and developed a complete **Library Management System** as a final academic project, focusing on:
+💱 **Currency Management System**
 
+Technology:
+- ASP.NET Core 8 MVC
+- SQL Server
+- Enterprise Architecture
+
+
+🛒 **MERN Stack E-Commerce Platform**
+
+Technology:
+- MongoDB
+- Express.js
+- React
+- Node.js
+
+
+### 🎓 Academic Project
+
+📚 **Library Management System**
+
+Developed a complete management solution focusing on:
+
+- Clean architecture
 - Database optimization
-- Role-based access control
-- Clean architecture principles
-- User-friendly experience
+- User management
+- Application scalability
 
 
-### Beyond Coding
+### ⚡ Fun Fact
 
-🎸 Heavy metal enthusiast  
-🎬 Anime follower  
-☕ Coffee + Code = Productivity  
+When I am not coding:
 
-
----
-
-# 🛠️ Technical Skills
+🎸 Listening to heavy metal  
+🎬 Watching anime  
+☕ Exploring new technologies  
 
 
-## Programming Languages
+<br>
+
+
+# 🛠️ Tech Stack
+
+
+## 👨‍💻 Languages
 
 <p>
 
@@ -99,7 +114,7 @@ My primary focus is:
 </p>
 
 
-## Frameworks & Development
+## 🚀 Frameworks & Libraries
 
 <p>
 
@@ -108,7 +123,7 @@ My primary focus is:
 </p>
 
 
-## Databases & Cloud
+## 🗄️ Database & Cloud
 
 <p>
 
@@ -117,18 +132,19 @@ My primary focus is:
 </p>
 
 
-## Tools & Technologies
+## 🔧 Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,unity">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,unity">
 
 </p>
 
 
----
+<br>
 
-# 🏗️ Featured Projects
+
+# 🚀 Featured Projects
 
 
 ## 💱 Currency Management System
@@ -137,23 +153,27 @@ My primary focus is:
 
 Features:
 
-- Enterprise application structure
 - Secure authentication
-- Database-driven architecture
-- Clean MVC implementation
+- Enterprise MVC architecture
+- Database driven workflow
+- Scalable backend structure
 
+
+---
 
 ## 🛒 MERN E-Commerce Platform
 
-**MongoDB • Express • React • Node.js**
+**MongoDB + Express + React + Node.js**
 
 Features:
 
-- Modern UI architecture
-- RESTful API integration
+- Modern frontend UI
+- REST API integration
 - Authentication system
-- Scalable backend
+- Scalable services
 
+
+---
 
 ## 📚 Library Management System
 
@@ -162,70 +182,81 @@ Academic Final Project
 Features:
 
 - Book management
-- User management
-- Transaction tracking
-- Database optimization
+- User roles
+- Transaction handling
+- Optimized database design
 
 
----
+<br>
+
 
 # 📊 GitHub Analytics
 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aymanchy70&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchy70&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=aymanchy70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanchy70&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
 
 <br><br>
 
 
-<img width="96%" src="https://streak-stats.demolab.com/?user=aymanchy70&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanchy70&theme=tokyonight&hide_border=true" width="95%">
 
 
 </div>
 
 
----
+<br>
+
 
 # 🏆 GitHub Achievements
 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aymanchy70&theme=tokyonight&no-frame=true&row=1">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aymanchy70&theme=tokyonight&no-frame=true&column=6" width="95%">
 
 
 </div>
 
 
----
+<br>
+
 
 # 🌱 Currently Learning
 
-- Advanced System Design
-- Cloud Architecture
-- AI Integration in Software Development
-- Performance Optimization
-- Enterprise Application Patterns
+
+- 🏗️ Advanced System Design
+- ☁️ Cloud Native Architecture
+- 🤖 AI Integration in Software Development
+- ⚡ Backend Performance Optimization
+- 🔐 Secure API Development
 
 
----
+<br>
+
 
 # 🤝 Let's Connect
 
-I am always interested in collaborating on:
 
-- Open-source projects
-- Innovative software solutions
-- Full-stack development opportunities
-- Technology discussions
+I am open to:
+
+- Open Source Collaboration
+- Software Engineering Opportunities
+- Interesting Projects
+- Technology Discussions
 
 
 <div align="center">
 
-### 🚀 Let's build something amazing together!
+<br>
+
+## 🚀 Let's Build Something Amazing Together
 
 </div>
